@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = matthis.assalier.simplon@gmail.com
+	name = matthis assalier
